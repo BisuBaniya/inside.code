@@ -1,6 +1,4 @@
 Here I have to keep some info.
-# inside.code
-My programs through which i learn to code.
 Author-> Bisu Siddharth
 
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
