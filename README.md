@@ -1,3 +1,3 @@
 
 # inside.code
-My programs through which i learn to code.
+My Editor through which I run to programs.
